@@ -8,8 +8,8 @@ body {
 
 svg {
   position: absolute;
-  width: 800px;
-  height: 480px;
+  width: 100%;
+  height: 80%;
   left: 0;
   right: 0;
   top: 0;
